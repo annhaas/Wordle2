@@ -1,0 +1,158 @@
+#boxParent{
+ margin-left: auto;
+ margin-right: auto;
+ align-items: center;
+ width: 30%;
+ height:6vw;
+}
+
+h3{
+    margin-top: 0;
+    font-style: italic;
+    font-size: 130%;
+}
+
+h1{
+    font-size: 200%;
+    margin-bottom: 0;
+}
+
+.box{
+    height: 70%;
+    width: 14.66%;
+    padding: 1% black;
+    margin-right: 1%;
+    border:0.5px solid gray;
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 3vw;
+    color:black;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.buttonContainer{
+    margin-right:auto;
+    margin-left: auto;
+    height: 5%;
+    width:23%;
+}
+
+.definitionContainer{
+    height: 3%;
+    width: 40%;
+    margin-top: 3%;
+    margin-bottom: 2%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 100%;
+    border: 1px solid white;
+    padding: 2%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.grid-container {
+    display: grid;
+}
+
+.correctAnswer{
+    height: 8%;
+    width: 25%;
+    margin-top: 3%;
+    margin-bottom: 2%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    font-size: 100%;
+    border: 1px solid white;
+    padding: 2%;
+    margin-left: auto;
+    margin-right: auto;
+   
+
+}
+
+
+.annBox{
+    height: 65%;
+    width: 6%;
+    padding: 0.5%;
+    margin-right: 1%;
+    background-color: lightgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    border-radius: 10%;
+    color:black;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 90%;
+}
+
+.backspaceBox{
+    height: 65%;
+    width: 11%;
+    padding: 0.5%;
+    margin-right: 1%;
+    background-color: lightgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    border-radius: 10%;
+    color:black;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 70%;
+}
+
+.enterBox{
+    height: 65%;
+    width: 15%;
+    padding: 0.5%;
+    margin-right: 1%;
+    background-color: lightgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    border-radius: 10%;
+    color:black;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 70%;
+}
+
+
+
+#qwertyParent{
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    width:29%;
+    height: 4vw;
+}
+
+#asdfgParent{
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    width:25%;
+    height: 4vw;
+}
+
+#zxcvbParent{
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    width: 32%;
+    height: 4vw;
+}
+
+form{
+    margin-left: auto;
+    margin-right: auto;
+    width:30%;
+    text-align: center;
+    
+}
+
+
+
+
+
